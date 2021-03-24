@@ -10,4 +10,5 @@ Scripts Python de la résolution des **puzzles difficiles** de https://codingame
 #**Lien de mon profil (Foxxpy) sur Codingame** : https://www.codingame.com/profile/2d6e4b70f304fd6b2c6a7412b7cb80ac1060643
 
 **----- Episodes -----**
-1/ Bender - Episode 2 : https://youtu.be/kCUSMR9CxTc
+
+#1/ Bender - Episode 2 : https://youtu.be/kCUSMR9CxTc
